@@ -1,2 +1,2 @@
 # mlp
-A multilayer perceptron applied to the Fashion MNIST dataset.
+**A multilayer perceptron applied to the Fashion MNIST dataset.**
